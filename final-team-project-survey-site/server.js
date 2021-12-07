@@ -1,5 +1,7 @@
 #!/usr/bin/env node
-
+const express = require('express');
+const path = require('path');
+// const app = express();
 /**
  * Module dependencies.
  */
@@ -12,8 +14,14 @@ var http = require('http');
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000');
-app.set('port', port);
+// var port = normalizePort(process.env.PORT || '3000');
+// app.set('port', port);
+
+app.use(express.static(__dirname + '/dist/code-warriors-survey-site'));
+app.get('/*', function(req,res) {
+  res.sendFile(path.join(__dirname+
+      '/dist/code-warriors-survey-site/index.html'));});
+app.listen(process.env.PORT || 3000);
 
 /**
  * Create HTTP server.
@@ -88,3 +96,4 @@ function onListening() {
     : 'port ' + addr.port;
   debug('Listening on ' + bind);
 }
+
