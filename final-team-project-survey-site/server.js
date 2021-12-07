@@ -21,7 +21,7 @@ app.use(express.static(__dirname + '/dist/code-warriors-survey-site'));
 app.get('/*', function(req,res) {
   res.sendFile(path.join(__dirname+
       '/dist/code-warriors-survey-site/index.html'));});
-app.listen(process.env.PORT || 3000);
+var port = app.listen(process.env.PORT || 3000);
 
 /**
  * Create HTTP server.
