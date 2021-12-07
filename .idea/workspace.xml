@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d44650c0-2495-4275-9310-ba78ebda69ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/final-team-project-survey-site/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/final-team-project-survey-site/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/final-team-project-survey-site/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/Scripts/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/models/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/models/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/models/survey.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/models/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/about_us/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/login/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/login/login.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/register/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/register/register.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/register/register.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/auth/register/register.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/contact_us/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/home/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/home/home.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/add-survey/add-survey.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/add-survey/add-survey.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/add-survey/add-survey.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/edit-survey/edit-survey.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/edit-survey/edit-survey.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/edit-survey/edit-survey.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/list-survey/list-survey.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/list-survey/list-survey.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/list-survey/list-survey.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey-response/add-survey-respond/add-survey-respond.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey-response/add-survey-respond/add-survey-respond.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey-response/add-survey-respond/add-survey-respond.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey-response/survey-response.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey-response/survey-response.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey-response/survey-response.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/pages/survey/survey.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/partials/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/partials/footer/footer.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/partials/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/partials/header/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/partials/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/partials/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/partials/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/services/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/app/services/survey.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/assets/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/assets/online-survey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/assets/survey1.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/assets/survey2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/assets/survey3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/authMiddleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/Survey-site/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/final-team-project-survey-site/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-team-project-survey-site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/final-team-project-survey-site/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +131,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638698299516</updated>
-      <workItem from="1638698300577" duration="2166000" />
+      <workItem from="1638698300577" duration="2856000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
